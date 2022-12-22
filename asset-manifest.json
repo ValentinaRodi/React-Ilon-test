@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Ilon-test/static/css/main.e8e518e6.css",
+    "main.js": "/React-Ilon-test/static/js/main.649050b6.js",
+    "static/media/space_star_wallpaper.png": "/React-Ilon-test/static/media/space_star_wallpaper.fb31294cb35d8c6eae81.png",
+    "static/media/mars-kosmos-korabl.png": "/React-Ilon-test/static/media/mars-kosmos-korabl.cdc57b3a8c57ddeeee36.png",
+    "static/media/MuseoSansCyrl-100.woff": "/React-Ilon-test/static/media/MuseoSansCyrl-100.af0499741b08a1533134.woff",
+    "index.html": "/React-Ilon-test/index.html",
+    "main.e8e518e6.css.map": "/React-Ilon-test/static/css/main.e8e518e6.css.map",
+    "main.649050b6.js.map": "/React-Ilon-test/static/js/main.649050b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8e518e6.css",
+    "static/js/main.649050b6.js"
+  ]
+}
