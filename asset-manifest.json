@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-cats/static/css/main.50c0d2c6.css",
-    "main.js": "/test-cats/static/js/main.d88efa68.js",
+    "main.js": "/test-cats/static/js/main.b1342ff7.js",
     "static/media/pattern.png": "/test-cats/static/media/pattern.b70e3c03338dd57ce7b5.png",
     "static/media/Exo2-VariableFont_wght.ttf": "/test-cats/static/media/Exo2-VariableFont_wght.718ec91358aa7ee8083b.ttf",
     "static/media/cat.png": "/test-cats/static/media/cat.58676bb34b670741bded.png",
@@ -9,10 +9,10 @@
     "static/media/TrebuchetMS-Bold.woff": "/test-cats/static/media/TrebuchetMS-Bold.ed76e98b5ec0933d740e.woff",
     "index.html": "/test-cats/index.html",
     "main.50c0d2c6.css.map": "/test-cats/static/css/main.50c0d2c6.css.map",
-    "main.d88efa68.js.map": "/test-cats/static/js/main.d88efa68.js.map"
+    "main.b1342ff7.js.map": "/test-cats/static/js/main.b1342ff7.js.map"
   },
   "entrypoints": [
     "static/css/main.50c0d2c6.css",
-    "static/js/main.d88efa68.js"
+    "static/js/main.b1342ff7.js"
   ]
 }
